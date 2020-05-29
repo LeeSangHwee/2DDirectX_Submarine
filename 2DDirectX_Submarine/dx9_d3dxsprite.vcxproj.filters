@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5f04a85d-16ce-43af-ae0f-8abc9c612659}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{6975d31f-e2bf-4f72-8922-da3190bcb40e}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Source Files\00.MainMenu">
+      <UniqueIdentifier>{e482d4dc-1ada-472d-b191-34d7fea2630e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\00.MainMenu\00_01.MenuBackGround">
+      <UniqueIdentifier>{5a18513f-fcdb-4fd9-a833-c25f3d821f98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\00.MainMenu\00_02.StartButton">
+      <UniqueIdentifier>{2c368ffc-6e33-47b6-bcbd-1cec946992ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\00.MainMenu\00_03.ExitButton">
+      <UniqueIdentifier>{fd43553b-369e-4d0f-9689-726a5c2ca422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\01.Loading">
+      <UniqueIdentifier>{72ce01f2-7518-4233-84c0-a57cbc1002da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame">
+      <UniqueIdentifier>{7f9482a3-5f55-4e6b-a41c-e5ccde4f55ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\99.Default">
+      <UniqueIdentifier>{4a326dfc-e867-4863-b1de-82df94046db7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_01.BackGround">
+      <UniqueIdentifier>{00a0ec14-b7de-4971-b91f-7eedd8b78dd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_01.BackGround\02.SeaWave">
+      <UniqueIdentifier>{30486a63-edc6-44da-a20d-60055609e9d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_01.BackGround\01.InGameBackGround">
+      <UniqueIdentifier>{7d3ddcf1-2722-4b3a-acf9-5275b151bc9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\11.Headers">
+      <UniqueIdentifier>{47b1a6eb-d896-425b-a2cf-eb27253b817e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager">
+      <UniqueIdentifier>{d5a1b700-b605-46f5-9db1-fcc2027b5783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\02.SeaMonsterManager">
+      <UniqueIdentifier>{3314f95d-558e-4e25-911c-aae81d5f623c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\02.SeaMonsterManager\SeaMon01">
+      <UniqueIdentifier>{0ba37c55-c6ce-4534-913e-f9a24a6e757b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\02.SeaMonsterManager\SeaMon01\BulletManager">
+      <UniqueIdentifier>{de6d76a7-5900-4a2e-ae36-ec2bade624fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\02.SeaMonsterManager\SeaMon01\CharacterrManager">
+      <UniqueIdentifier>{7456db94-e432-45cd-a045-88d20c8a451f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\02.SeaMonsterManager\AirMon01">
+      <UniqueIdentifier>{481bf7ff-1be9-41be-b0d8-01f80322341f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\02.SeaMonsterManager\AirMon01\CharacterManager">
+      <UniqueIdentifier>{e0f43241-a59c-4dab-844b-b5c0ad11b22f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\02.SeaMonsterManager\AirMon01\BulletManager">
+      <UniqueIdentifier>{f1c20e41-3622-4ac5-9745-8d5793817adc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\01.UserBulletManager">
+      <UniqueIdentifier>{aca65d66-9715-493e-96f6-a2dad2938296}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10.Manager\03.ScoreManager">
+      <UniqueIdentifier>{d20d81f2-955e-4fd0-aaf2-3b7952648947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_03.User">
+      <UniqueIdentifier>{a935aec1-3e89-45ff-ad60-fe81e0b901ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_03.User\Bullet">
+      <UniqueIdentifier>{6917db8e-9295-4983-b171-eebb9284d5b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_03.User\Character">
+      <UniqueIdentifier>{376059fa-b092-49db-b340-91aa36bbb568}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_03.User\Life">
+      <UniqueIdentifier>{143dd6a6-6968-4968-949f-182fe91a9961}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_04.Monster">
+      <UniqueIdentifier>{d9e29f03-ab6a-4495-abd3-69052e228d7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_04.Monster\01.SeaMonster_01">
+      <UniqueIdentifier>{64ff4dfd-026d-4696-bdbd-3034c70c1a1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_04.Monster\01.SeaMonster_01\Character">
+      <UniqueIdentifier>{81cc1957-65f7-40a1-840c-d9df43189ebd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_04.Monster\01.SeaMonster_01\Bullet">
+      <UniqueIdentifier>{39b1c8df-088d-40e1-9079-8344dc54a3d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_04.Monster\02.AirMonster_01">
+      <UniqueIdentifier>{0f88d06f-9602-4150-9cd8-5b649b833375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_04.Monster\02.AirMonster_01\Character">
+      <UniqueIdentifier>{f4d174a0-337c-4db5-9330-2d10530770a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_04.Monster\02.AirMonster_01\Bullet">
+      <UniqueIdentifier>{c9f3d1b4-8bd9-422e-87a7-ea852fea23b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_05.Score">
+      <UniqueIdentifier>{a6484db2-5eea-4c4c-aff2-ece3bdbdafcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.InGame\02_06.GameOver">
+      <UniqueIdentifier>{52d09ae3-97cb-41be-8d96-aace9aeebf2d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CSubMarineSprite.cpp">
+      <Filter>Source Files\99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="dx9_d3dxsprite.cpp">
+      <Filter>Source Files\99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="MyAnimationSprite.cpp">
+      <Filter>Source Files\99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="MySprite.cpp">
+      <Filter>Source Files\99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuBackGround.cpp">
+      <Filter>Source Files\00.MainMenu\00_01.MenuBackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="StartButton.cpp">
+      <Filter>Source Files\00.MainMenu\00_02.StartButton</Filter>
+    </ClCompile>
+    <ClCompile Include="ExitButton.cpp">
+      <Filter>Source Files\00.MainMenu\00_03.ExitButton</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingDisplay.cpp">
+      <Filter>Source Files\01.Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="SeaWave.cpp">
+      <Filter>Source Files\02.InGame\02_01.BackGround\02.SeaWave</Filter>
+    </ClCompile>
+    <ClCompile Include="InGameBackGround.cpp">
+      <Filter>Source Files\02.InGame\02_01.BackGround\01.InGameBackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="SeaMon01_Char.cpp">
+      <Filter>Source Files\02.InGame\02_04.Monster\01.SeaMonster_01\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="UserCharacter.cpp">
+      <Filter>Source Files\02.InGame\02_03.User\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="User_Bullet.cpp">
+      <Filter>Source Files\02.InGame\02_03.User\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="UserBulletMgr.cpp">
+      <Filter>Source Files\10.Manager\01.UserBulletManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SeaMon01_Bullet.cpp">
+      <Filter>Source Files\02.InGame\02_04.Monster\01.SeaMonster_01\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="SeaMonsterMgr.cpp">
+      <Filter>Source Files\10.Manager\02.SeaMonsterManager\SeaMon01\CharacterrManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SeaMon01_BulletMgr.cpp">
+      <Filter>Source Files\10.Manager\02.SeaMonsterManager\SeaMon01\BulletManager</Filter>
+    </ClCompile>
+    <ClCompile Include="AirMon01_Char.cpp">
+      <Filter>Source Files\02.InGame\02_04.Monster\02.AirMonster_01\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="AirMonsterMgr.cpp">
+      <Filter>Source Files\10.Manager\02.SeaMonsterManager\AirMon01\CharacterManager</Filter>
+    </ClCompile>
+    <ClCompile Include="AirMon01_BulletMgr.cpp">
+      <Filter>Source Files\10.Manager\02.SeaMonsterManager\AirMon01\BulletManager</Filter>
+    </ClCompile>
+    <ClCompile Include="AirMon01_Bullet.cpp">
+      <Filter>Source Files\02.InGame\02_04.Monster\02.AirMonster_01\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="UserLife.cpp">
+      <Filter>Source Files\02.InGame\02_03.User\Life</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>Source Files\02.InGame\02_05.Score</Filter>
+    </ClCompile>
+    <ClCompile Include="cMP3.cpp">
+      <Filter>Source Files\99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreManager.cpp">
+      <Filter>Source Files\10.Manager\03.ScoreManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>Source Files\02.InGame\02_06.GameOver</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="codesampler.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="dx9_d3dxsprite.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MySprite.h">
+      <Filter>Source Files\99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CSubMarineSprite.h">
+      <Filter>Source Files\99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="MyAnimationSprite.h">
+      <Filter>Source Files\99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuBackGround.h">
+      <Filter>Source Files\00.MainMenu\00_01.MenuBackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="StartButton.h">
+      <Filter>Source Files\00.MainMenu\00_02.StartButton</Filter>
+    </ClInclude>
+    <ClInclude Include="ExitButton.h">
+      <Filter>Source Files\00.MainMenu\00_03.ExitButton</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingDisplay.h">
+      <Filter>Source Files\01.Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="SeaWave.h">
+      <Filter>Source Files\02.InGame\02_01.BackGround\02.SeaWave</Filter>
+    </ClInclude>
+    <ClInclude Include="InGameBackGround.h">
+      <Filter>Source Files\02.InGame\02_01.BackGround\01.InGameBackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers.h">
+      <Filter>Source Files\11.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="EnumHeaders.h">
+      <Filter>Source Files\11.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SeaMon01_Char.h">
+      <Filter>Source Files\02.InGame\02_04.Monster\01.SeaMonster_01\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="UserCharacter.h">
+      <Filter>Source Files\02.InGame\02_03.User\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="User_Bullet.h">
+      <Filter>Source Files\02.InGame\02_03.User\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="UserBulletMgr.h">
+      <Filter>Source Files\10.Manager\01.UserBulletManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SeaMon01_Bullet.h">
+      <Filter>Source Files\02.InGame\02_04.Monster\01.SeaMonster_01\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="SeaMonsterMgr.h">
+      <Filter>Source Files\10.Manager\02.SeaMonsterManager\SeaMon01\CharacterrManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SeaMon01_BulletMgr.h">
+      <Filter>Source Files\10.Manager\02.SeaMonsterManager\SeaMon01\BulletManager</Filter>
+    </ClInclude>
+    <ClInclude Include="AirMon01_Char.h">
+      <Filter>Source Files\02.InGame\02_04.Monster\02.AirMonster_01\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="AirMonsterMgr.h">
+      <Filter>Source Files\10.Manager\02.SeaMonsterManager\AirMon01\CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="AirMon01_BulletMgr.h">
+      <Filter>Source Files\10.Manager\02.SeaMonsterManager\AirMon01\BulletManager</Filter>
+    </ClInclude>
+    <ClInclude Include="AirMon01_Bullet.h">
+      <Filter>Source Files\02.InGame\02_04.Monster\02.AirMonster_01\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="UserLife.h">
+      <Filter>Source Files\02.InGame\02_03.User\Life</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Source Files\02.InGame\02_05.Score</Filter>
+    </ClInclude>
+    <ClInclude Include="cMP3.h">
+      <Filter>Source Files\99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreManager.h">
+      <Filter>Source Files\10.Manager\03.ScoreManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>Source Files\02.InGame\02_06.GameOver</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
